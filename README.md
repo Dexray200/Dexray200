@@ -4,8 +4,8 @@
 <div align="right">
   Figure 1 - 3d Model Motion Capture Glove
 </div>
-
-<h1 align="left">Hello, I'm Dex 🤙</h1>
-<h2 align="left">Electrical Engineering Master's Student</h2>
-
+<div aligh="left">
+  <h1 align="left">Hello, I'm Dex 🤙</h1>
+  <h2 align="left">Electrical Engineering Master's Student</h2>
+</div>
 
