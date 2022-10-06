@@ -7,4 +7,6 @@
 <h2 align="center">Electrical Engineering Master's Student
 
 
-
+<div align="right">
+  Figure 1 - 3d Model Motion Capture Glove
+</div>
