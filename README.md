@@ -3,9 +3,9 @@
 <div align="right">
   Figure 1 - 3d Model Motion Capture Glove
 </div>
-<h1 align="center">Hello, I'm Dex 🤙</h1>
-<h2 align="center">Electrical Engineering Master's Student
 
+<h1 align="left">Hello, I'm Dex 🤙</h1>
+<h2 align="left">Electrical Engineering Master's Student</h2>
 
 <div align="right">
   Figure 1 - 3d Model Motion Capture Glove
