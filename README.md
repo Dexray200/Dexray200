@@ -1,7 +1,7 @@
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/Dexray200/Dexray200/master/HandRender.png" width="450"/>
 </p>
-<div align="left">
+<div align="right">
   Figure 1 - 3d Model Motion Capture Glove
 </div>
 
