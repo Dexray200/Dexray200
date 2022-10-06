@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/Dexray200/Dexray200/master/HandRender.png" width="250"/>
+<img align="center" src="https://raw.githubusercontent.com/Dexray200/Dexray200/master/HandRender.png" width="450"/>
 
 <div align="left">
   Figure 1 - 3d Model Motion Capture Glove
