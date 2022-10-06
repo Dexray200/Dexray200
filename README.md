@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <div aligh="left">
     <h1 align="left">Hello, I'm Dex 🤙</h1>
     <h2 align="left">Electrical Engineering Master's Student</h2>
