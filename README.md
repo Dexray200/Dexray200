@@ -1,6 +1,6 @@
 <div aligh="left">
    <h1 align="left">Hello, I'm Dex 🤙</h1>
-   <h2 align="left">Electrical Engineering Master's Student</h2>
+   <h2 align="left">Electrical Engineer Cosplaying as Embedded Software Engineer</h2>
 </div>
 
 <p align="center">
